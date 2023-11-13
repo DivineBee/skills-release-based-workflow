@@ -128,7 +128,7 @@ table {
   border-spacing: 0;
 }
 
-/* Center the container */
+/* Center  container */
 #container {
   padding-top: 50px;
   margin: 0 auto;
@@ -141,4 +141,5 @@ canvas {
 }
 body {
     background-color: black;
-}
+} 
+
